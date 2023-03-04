@@ -3,8 +3,9 @@ The COVID-19 pandemic has impacted the over all economy in many sectors such as 
 
 # Details
 - Datasets from: https://www.da.gov.ph/price-monitoring/
-- Range of dataset used (before lockdowns): October 01, 2019 - March 14, 2020
-- Range of dataset used (after first lockdown): March 16, 2020 - August 29, 2020
+- ITS Range of dataset used (before lockdowns): October 01, 2019 - March 14, 2020
+- ITS Range of dataset used (after first lockdown): March 16, 2020 - August 29, 2020
+- Forecast Range of dataset used: October 01, 2019 - August 31, 2021
 - Made using Jupyter and Numpy
 
 # Paper
